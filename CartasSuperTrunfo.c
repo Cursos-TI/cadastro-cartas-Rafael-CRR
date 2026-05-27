@@ -14,6 +14,13 @@ int main() {
   float pib1;
   int pontosturiticos1;
 
+  char estado2;
+  char codigo2[4];
+  char cidade2[50];
+  float area2;
+  float pib2;
+  int pontosturisticos2;
+
 
 
 
