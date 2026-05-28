@@ -17,6 +17,7 @@ int main() {
   char estado2;
   char codigo2[4];
   char cidade2[50];
+  int população2;
   float area2;
   float pib2;
   int pontosturisticos2;
